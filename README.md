@@ -1,4 +1,6 @@
 # Awesome Sysadmin
+
+[![Join the chat at https://gitter.im/sharp/awesome-sysadmin](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sharp/awesome-sysadmin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A curated list of amazingly awesome open source sysadmin resources inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php)
 
 * [Awesome Sysadmin](#awesome-sysadmin)
